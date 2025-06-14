@@ -1,0 +1,85 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Alice Silva",
+      "email": "alice.silva@example.com",
+      "senha": "senha123"
+    },
+    {
+      "id": "2",
+      "nome": "Bruno Costa",
+      "email": "bruno.costa@example.com",
+      "senha": "senha456"
+    },
+    {
+      "id": "3",
+      "nome": "Carla Martins",
+      "email": "carla.martins@example.com",
+      "senha": "senha789"
+    },
+    {
+      "id": "5561",
+      "nome": "João ",
+      "email": "joao.exemplo@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "3c3c",
+      "nome": "João ",
+      "email": "joao.exemplo2@gmail.com",
+      "senha": "123456"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Smartphone Modelo X",
+      "descricao": "Um smartphone de última geração com 128GB de armazenamento, câmera tripla de 48MP e tela AMOLED de 6.5 polegadas.",
+      "preco": 2999.95,
+      "imagemUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=400&q=80",
+      "id": "101"
+    },
+    {
+      "id": "102",
+      "nome": "Notebook Pro",
+      "descricao": "Notebook potente com processador i7, 16GB de RAM, SSD de 512GB e placa de vídeo dedicada. Ideal para trabalho e jogos.",
+      "preco": 7500.5,
+      "imagemUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "103",
+      "nome": "Fone de Ouvido Bluetooth T5",
+      "descricao": "Fone de ouvido sem fio com cancelamento de ruído ativo, bateria de longa duração e case de carregamento.",
+      "preco": 349.9,
+      "imagemUrl": "https://m.media-amazon.com/images/I/51UWTpldNyL._AC_SX679_.jpg"
+    },
+    {
+      "id": "104",
+      "nome": "Smartwatch Fit+",
+      "descricao": "Relógio inteligente com monitoramento de frequência cardíaca, oxigênio no sangue, GPS integrado e mais de 50 modos de esporte.",
+      "preco": 899,
+      "imagemUrl": "https://m.media-amazon.com/images/I/61TJB03ROCL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "105",
+      "nome": "Cadeira Gamer Ergonômica",
+      "descricao": "Cadeira ergonômica com apoio lombar ajustável, braços 4D e design moderno para longas sessões de uso.",
+      "preco": 1250,
+      "imagemUrl": "https://m.media-amazon.com/images/I/71rpGOUI-2L.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "106",
+      "nome": "Teclado Mecânico RGB",
+      "descricao": "Teclado mecânico com switches azuis, iluminação RGB customizável e layout ABNT2.",
+      "preco": 450.75,
+      "imagemUrl": "https://m.media-amazon.com/images/I/71vzYdH3yNL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "e3a2",
+      "nome": "Xbox series",
+      "descricao": "Xbox series branco, 3 jogos, 2 controles",
+      "preco": 3,
+      "imagemUrl": "https://m.magazineluiza.com.br/xbox-series-s-2021-512gb-ssd-1-controle-branco-microsoft/p/238881100/ga/cxss/?&seller_id=magazineluiza&utm_source=google&utm_medium=cpc&utm_term=79912&utm_campaign=google_eco_per_ven_pla_lev_apo_1p_produtos-novos-csp&utm_content=&partner_id=79912&gclsrc=aw.ds&gad_source=1&gad_campaignid=22614417012&gbraid=0AAAAAD4zZmRjqOfPcDa7z3QLoMwTs8ixm&gclid=Cj0KCQjwu7TCBhCYARIsAM_S3NjT-5d_ECi3a5N44rLf_jfRDI5P1rwvZFtgMMiElyB29pBDK1jhyykaAj_sEALw_wcB"
+    }
+  ]
+}
